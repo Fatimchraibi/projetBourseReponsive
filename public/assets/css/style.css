@@ -1,1 +1,45 @@
+.navbar{
+    background-color: #33058d;
+}
+
+.menu{
+    background-color: white;
+    color:#33058d ;
+    font-weight: bold ;
+    width: 110px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.logo{
+    width: 150px;
+}
+
+footer{
+    background-color: #33058d ;
+}
+
+p a{
+    color: white;
+    font-size: 12px;
+    text-decoration:none;
+}
+
+.footerReseaux img{
+    width: 35px;
+    margin-left: 15px ;
+    margin-top: 10px;
+}
+
+.footerText1 {
+    margin-top: 10px;
+}
+
+.navbar-toggler{
+    background-color: white;
+}
+
+
+
+
 
