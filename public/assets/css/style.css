@@ -1,1 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
 
+}
+h1, h2{
+    font-weight: bold;
+}
+
+.title {
+    color: white;
+    height: 20vh;
+    background-image: url(../img/lamanu.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 175%;
+}
+
+.products {
+    width: 180px;
+}
+
+.playstation, .surface{
+    width: 190px;
+}
+
+ul {
+    list-style-type: none;
+}
