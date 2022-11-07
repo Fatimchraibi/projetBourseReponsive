@@ -26,9 +26,13 @@ p a{
 }
 
 .footerReseaux img{
-    width: 35px;
+    width: 5vw;
     margin-left: 15px ;
     margin-top: 10px;
+}
+
+.footerReseaux .Manu{
+    width: 13vw;
 }
 
 .footerText1 {
@@ -38,7 +42,6 @@ p a{
 .navbar-toggler{
     background-color: white;
 }
-
 
 
 
