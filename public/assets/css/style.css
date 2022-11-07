@@ -1,8 +1,10 @@
 
 
+/* début de main */
 body {
     margin: 0;
     padding: 0;
+    width: 100%;
     font-family: 'Noto Sans', sans-serif;
 }
 h1, h2, h5 , legend{
@@ -55,10 +57,10 @@ ul {
     width: 350px;
 }
 
+/* fin main */
 
 
-
-/* ---------------- */
+/* début header */
 .navbar{
     background-color: #33058d;
 }
@@ -76,30 +78,36 @@ ul {
     width: 150px;
 }
 
+.navbar-toggler{
+    background-color: white;
+}
+/* fin header */
+/*début footer*/
+
 footer{
     background-color: #33058d ;
 }
 
-p a{
+a{
     color: white;
     font-size: 12px;
     text-decoration:none;
 }
-
+.footerText1:hover{
+    background-color: antiquewhite;
+}
 .footerReseaux img{
-    width: 5vw;
+    width: 3vw;
     margin-left: 15px ;
     margin-top: 10px;
 }
 
 .footerReseaux .Manu{
-    width: 13vw;
+    width: 11vw;
 }
 
 .footerText1 {
     margin-top: 10px;
+    
 }
-
-.navbar-toggler{
-    background-color: white;
-}
+/*fin footer*/
